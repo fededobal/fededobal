@@ -12,7 +12,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&show_icons=true&theme=dracula)
 
 ## 🌟 Proyectos
-[Facultad](https://github-readme-stats.vercel.app/api/pin?username=fdDbl&repo=Facultad&show_icons=true&theme=dracula) - Repositorio completo de mis trabajos en la facultad
+[Facultad](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&theme=midnight-purple&icon_color=F8D866&show_icons=false&border_color=474554) - Repositorio completo de mis trabajos en la facultad
 - [CADP](https://github.com/fdDbl/Facultad/CADP) - Trabajos de Conceptos de Algoritmos, Datos y Programas
 - [TDP](https://github.com/fdDbl/Facultad/TDP) - Trabajos de Taller de Programación
 - [AC](https://github.com/fdDbl/Facultad/AC) - Trabajos de Arquitectura de Computadoras
