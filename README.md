@@ -9,6 +9,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&show_icons=true&theme=radical)
 
 ## 🌟 Proyectos
 - [Facultad](https://github.com/fdDbl/Facultad) - Repositorio completo de mis trabajos en la facultad
