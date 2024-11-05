@@ -16,19 +16,20 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 ## 🌟 Proyectos
 
 <div>
-    <a href="https://github.com/fdDbl/Facultad"><img width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula"></a>
+    <a href="https://github.com/fdDbl/Facultad"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula"></a>
     <br>
+    <a href="https://github.com/fdDbl/logicaCircuitos"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86400&theme=dracula"></a>
 </div>
 
-<h3>Primer año de Informática</h3>
-
+### Primer año de Informática
 - [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP/2024) - Trabajos de Conceptos de Algoritmos, Datos y Programas
 - [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP/2024) - Trabajos de Taller de Programación
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC/2024) - Trabajos de Arquitectura de Computadoras
 
 ## 📫 Contacto
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) - https://www.linkedin.com/in/federicodobal/
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - Email institucional: federico.dobal259836@alumnos.info.unlp.edu.ar
-
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - https://discord.com/users/534757212149776395
+<a href="https://www.linkedin.com/in/federicodobal/"><img width="450" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br>
+<a href="federico.dobal259836@alumnos.info.unlp.edu.ar"><img width="450" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+<a href="https://discord.com/users/534757212149776395"><img width="450" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
