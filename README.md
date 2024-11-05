@@ -13,9 +13,9 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 🌟 Proyectos
 ![Facultad](https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula)
-![CADP](https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad/CADP&cache_seconds=86400&theme=dracula)
-- [TDP](https://github.com/fdDbl/Facultad/TDP) - Trabajos de Taller de Programación
-- [AC](https://github.com/fdDbl/Facultad/AC) - Trabajos de Arquitectura de Computadoras
+- ![CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP/2024) - Trabajos de Conceptos de Algoritmos, Datos y Programas
+- ![TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP/2024) - Trabajos de Taller de Programación
+- ![AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC/2024) - Trabajos de Arquitectura de Computadoras
 
 ## 📫 Contacto
 - LinkedIn: [Tu Perfil](https://www.linkedin.com/in/federicodobal/)
