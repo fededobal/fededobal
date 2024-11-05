@@ -27,6 +27,6 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 📫 Contacto
 
-<a href="https://www.linkedin.com/in/federicodobal/"><img width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail_institucional-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail institucional"></a>
-<a href="https://discord.com/users/534757212149776395"><img width="150" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
+<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail_institucional-federico.dobal259836%40alumnos.info.unlp.edu.ar-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail institucional - federico.dobal259836@alumnos.info.unlp.edu.ar"></a>
+<a href="https://discord.com/users/534757212149776395"><img src="https://img.shields.io/badge/Discord-fede%230914-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord - fede#0914"></a>
