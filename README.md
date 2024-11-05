@@ -18,7 +18,8 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
     <a href="https://github.com/fdDbl/Facultad"><img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula"></a>
     <br>
 </div>
-### Primer año de Informática
+
+<h2>Primer año de Informática</h2>
 - [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP/2024) - Trabajos de Conceptos de Algoritmos, Datos y Programas
 - [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP/2024) - Trabajos de Taller de Programación
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC/2024) - Trabajos de Arquitectura de Computadoras
