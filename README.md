@@ -28,5 +28,5 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 ## 📫 Contacto
 
 <a href="https://www.linkedin.com/in/federicodobal/"><img width="150" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img width="150" src="https://img.shields.io/badge/Mail_institucional-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF)"></a>
+<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail_institucional-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail institucional"></a>
 <a href="https://discord.com/users/534757212149776395"><img width="150" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
