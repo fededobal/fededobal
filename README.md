@@ -13,7 +13,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 🌟 Proyectos
 ![Facultad](https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula)
-[![CADP](https://github-readme-stats.vercel.app/api/gist?id=8b46c1dfc75a396d76751ad67252ad60)](https://gist.github.com/fdDbl/8b46c1dfc75a396d76751ad67252ad60/)
+![CADP](https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad/CADP&cache_seconds=86400&theme=dracula)
 - [TDP](https://github.com/fdDbl/Facultad/TDP) - Trabajos de Taller de Programación
 - [AC](https://github.com/fdDbl/Facultad/AC) - Trabajos de Arquitectura de Computadoras
 
