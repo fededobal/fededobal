@@ -20,5 +20,5 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC/2024) - Trabajos de Arquitectura de Computadoras
 
 ## 📫 Contacto
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/federicodobal/)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/federicodobal/
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Email institucional: federico.dobal259836@alumnos.info.unlp.edu.ar
