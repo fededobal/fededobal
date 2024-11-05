@@ -17,7 +17,6 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 <div>
     <a href="https://github.com/fdDbl/Facultad"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86400&theme=dracula"></a>
-    <br>
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86400&theme=dracula"></a>
 </div>
 
@@ -28,8 +27,6 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 📫 Contacto
 
-<a href="https://www.linkedin.com/in/federicodobal/"><img width="450" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
-<a href="federico.dobal259836@alumnos.info.unlp.edu.ar"><img width="450" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<br>
-<a href="https://discord.com/users/534757212149776395"><img width="450" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/federicodobal/"><img width="200" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="federico.dobal259836@alumnos.info.unlp.edu.ar"><img width="200" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/users/534757212149776395"><img width="200" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
