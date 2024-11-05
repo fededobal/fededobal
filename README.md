@@ -5,8 +5,9 @@
 Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata)
 
 ## 💻 Aprendiendo...
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula)
@@ -19,5 +20,5 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC/2024) - Trabajos de Arquitectura de Computadoras
 
 ## 📫 Contacto
-- LinkedIn: [Tu Perfil](https://www.linkedin.com/in/federicodobal/)
-- Email institucional: federico.dobal259836@alumnos.info.unlp.edu.ar
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/federicodobal/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Email institucional: federico.dobal259836@alumnos.info.unlp.edu.ar
