@@ -1,7 +1,7 @@
 <h1 align=center>Hey! 👋 I'm Federico Dobal</h1>
 <h2 align=center>🥉 Junior</h2>
 
-## 🚀 Sobre mí
+## 🚀 About me
 Currently studying first year of a Bachelor's degree in Computer Science (National University of La Plata).
 
 ## 💻 Learning...
