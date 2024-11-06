@@ -4,7 +4,7 @@
 ## 🚀 Sobre mí
 Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).
 
-<img src="https://imgdrop.io/image/E5aIt">
+<img src="https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2024/11/06/Sin-tituloadff3c3d52290d4e.gif">
 
 ## 💻 Aprendiendo...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
