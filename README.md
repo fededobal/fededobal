@@ -1,7 +1,6 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
 <h2 align=center>🥉 Junior</h2>
 
-***
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula">
     <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
