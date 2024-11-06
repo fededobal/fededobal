@@ -2,7 +2,7 @@
 <h2 align=center>🥉 Junior</h2>
 
 ## 🚀 Sobre mí
-Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata)
+Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).
 
 ## 💻 Aprendiendo...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,9 +23,9 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 </div> 
 
 ### Primer año de Informática
-- [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - Trabajos de Conceptos de Algoritmos, Datos y Programas
-- [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - Trabajos de Taller de Programación
-- [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - Trabajos de Arquitectura de Computadoras
+- [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - Trabajos de Conceptos de Algoritmos, Datos y Programas.
+- [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - Trabajos de Taller de Programación.
+- [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - Trabajos de Arquitectura de Computadoras.
 
 ## 📫 Contacto
 
