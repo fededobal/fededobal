@@ -1,5 +1,5 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
-<h3>🧑‍💻 Junior</h3>
+<h3 align=center>🧑‍💻 Junior</h3>
 
 ## 🚀 Sobre mí
 Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata)
