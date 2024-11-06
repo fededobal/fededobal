@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Federico Dobal
+<h1 align-items=center>¡Hola! 👋 Soy Federico Dobal</h1>
 ### 🧑‍💻 Junior
 
 ## 🚀 Sobre mí
