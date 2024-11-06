@@ -1,8 +1,7 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
 <h2 align=center>🥉 Junior</h2>
 
-## 🚀 Sobre mí
-Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).
+### Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).
 ![](https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif)
 
 ## 💻 Aprendiendo...
