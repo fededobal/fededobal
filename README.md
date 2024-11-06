@@ -21,7 +21,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86401&theme=dracula"></a>
 </div> 
 
-<h3 align=center text-decoration-line=overline;>Primer año de Informática</h3>
+<h3 align=center style=text-decoration-line:overline;>Primer año de Informática</h3>
 
 - [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - Trabajos de Conceptos de Algoritmos, Datos y Programas.
 - [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - Trabajos de Taller de Programación.
