@@ -16,8 +16,8 @@
     <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
 </div> 
 
-## 🌟 Proyectos
-<div align=center>
+<h2>🌟 Proyectos</h2>
+<div>
     <a href="https://github.com/fdDbl/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86401&theme=dracula"></a>
 </div> 
