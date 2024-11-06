@@ -4,7 +4,10 @@
 ## 🚀 Sobre mí
 Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?size=600x400&markers=icon%3Ahttp%3A%2F%2Fwww.google.com%2Fmapfiles%2Farrow.png%7C41.39479%2C2.148768&visible=41.320004%2C2.069526%7C41.469576%2C2.22801&key=AIzaSyDztlrk_3CnzGHo7CFvLFqE_2bUKEq1JEU&signature=WkICJTRmmI1EgDK2VJI4l9lt3qA=" title="" />
+<img src="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x300&maptype=roadmap
+&markers=color:blue%7Clabel:S%7C40.702147,-74.015794&markers=color:green%7Clabel:G%7C40.711614,-74.012318
+&markers=color:red%7Clabel:C%7C40.718217,-73.998284
+&key=1&signature=2">
 
 ## 💻 Aprendiendo...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
