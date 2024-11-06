@@ -12,10 +12,13 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 <br>
+
+***
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula">
     <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
 </div> 
+***
 
 <h2>🌟 Proyectos</h2>
 <div>
