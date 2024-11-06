@@ -11,7 +11,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 
 ## 📊 Estadísticas de GitHub
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula">
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
 
 ## 🌟 Proyectos
 
