@@ -16,8 +16,7 @@ Cursando primer año de Licenciatura en Informática (Universidad Nacional de La
 </div> 
 
 ## 🌟 Proyectos
-
-<div>
+<div align=center>
     <a href="https://github.com/fdDbl/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86401&theme=dracula"></a>
 </div> 
