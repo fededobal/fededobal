@@ -1,16 +1,10 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
 <h2 align=center>🥉 Junior</h2>
 
-<section align=center>
-
-***
-    
-   <h3 align=left >Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).</h3>
-   <img align=right width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
-    
-***
-    
-</section>
+<br>
+<h3 align=left >Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).</h3>
+<img align=right width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
+<br>    
 
 <h2>📚 Aprendiendo...</h2>
 
