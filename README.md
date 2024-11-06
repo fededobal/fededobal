@@ -1,7 +1,7 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
 <h2 align=center>🥉 Junior</h2>
 
-<h2>📚 Aprendiendo...</h2>
+<h3>📚 Aprendiendo...</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,7 +15,7 @@
 
 ***
 
-<h2>🌟 Proyectos</h2>
+<h3>🌟 Proyectos</h3>
 <div>
     <a href="https://github.com/fdDbl/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86401&theme=dracula"></a>
