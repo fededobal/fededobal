@@ -2,18 +2,15 @@
 <h2 align=center>🥉 Junior</h2>
 
 <div align=center>
-    <h3 align=left >Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).</h3>
-    <img align=left width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
+    <h3>Cursando primer año de Licenciatura en Informática (Universidad Nacional de La Plata).</h3>
+    <img width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
 </div>
 
-<div>
 <h2>📚 Aprendiendo...</h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-
-</div>
 
 ***
 <div>
