@@ -1,5 +1,5 @@
 <h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
-<h2 align=center>🥉 Junior</h2>
+<h3 align=center>🥉 Junior</h3>
 
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula">
