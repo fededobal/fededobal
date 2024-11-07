@@ -20,6 +20,8 @@
     <a href="https://github.com/fdDbl/logicaCircuitos"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=logicaCircuitos&cache_seconds=86401&theme=dracula"></a>
 </div> 
 
+***
+
 <h1 align=center>Licenciatura en Informática</h1>
 <div align=center>
     <h3>Universidad Nacional de La Plata</h3>
