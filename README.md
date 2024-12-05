@@ -33,6 +33,8 @@
 - [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - Trabajos de Taller de Programación.
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - Trabajos de Arquitectura de Computadoras.
 
+***
+
 # 📫 Contacto
 
 <a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
