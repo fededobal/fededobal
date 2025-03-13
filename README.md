@@ -33,6 +33,12 @@
 - [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - Trabajos de Taller de Programación.
 - [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - Trabajos de Arquitectura de Computadoras.
 
+<h2>Segundo año</h2>
+
+- [AYED](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/AYED) - Trabajos de Algoritmos y Estructuras de Datos.
+- [FOD](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/FOD) - Trabajos de Fundamentos de Organización de Datos.
+- [SEMINARIO .NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - Trabajos de Seminario de Lenguajes opción .NET.
+
 ***
 
 # 📫 Contacto
