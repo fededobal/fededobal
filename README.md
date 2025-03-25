@@ -10,7 +10,7 @@
 
 <h3>📚 Aprendiendo...</h3>
 
-![Java](https://img.shields.io/badge/java-%FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-D9D9D9?style=for-the-badge&logo=sharp&logoColor=D9D9D9)
 ![Python](https://img.shields.io/badge/python-B3B3B3?style=for-the-badge&logo=python&logoColor=B3B3B3)
 ![.NET](https://img.shields.io/badge/dotnet-8C8C8C.svg?style=for-the-badge&logo=dotnet&logoColor=8C8C8C)
