@@ -28,6 +28,7 @@
 <div align=center>
     <h3>Universidad Nacional de La Plata</h3>
     <img width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
+    <h2>Me encuentro en el 2do año de la carrera.</h2>
 </div>
 <h2>Primer año</h2>
 
