@@ -10,13 +10,13 @@
 
 <h3>📚 Aprendiendo...</h3>
 
-![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-D9D9D9?style=for-the-badge&logo=sharp&logoColor=D9D9D9)
-![Python](https://img.shields.io/badge/python-B3B3B3?style=for-the-badge&logo=python&logoColor=B3B3B3)
-![.NET](https://img.shields.io/badge/dotnet-8C8C8C.svg?style=for-the-badge&logo=dotnet&logoColor=8C8C8C)
-![Spacy](https://img.shields.io/badge/Spacy-666666?style=for-the-badge&logo=spacy&logoColor=666666)
-![Keras](https://img.shields.io/badge/Keras-404040.svg?style=for-the-badge&logo=Keras&logoColor=404040)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=000000)
+![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
+![C#](https://img.shields.io/badge/C%23-D9D9D9?style=for-the-badge&logo=sharp&logoColor=000000)
+![Python](https://img.shields.io/badge/python-B3B3B3?style=for-the-badge&logo=python&logoColor=000000)
+![.NET](https://img.shields.io/badge/dotnet-8C8C8C.svg?style=for-the-badge&logo=dotnet&logoColor=000000)
+![Spacy](https://img.shields.io/badge/Spacy-666666?style=for-the-badge&logo=spacy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-404040.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3>🌟 Proyectos</h3>
 <div>
