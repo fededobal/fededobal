@@ -26,7 +26,7 @@
 
 <div align=center>
     <h1 align=center>Licenciatura en Informática</h1>
-    <h2>🏫 Universidad Nacional de La Plata ⬇️</h2>
+    <h3>🏫 Universidad Nacional de La Plata ⬇️</h3>
     <img width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
     <h3>📚 Me encuentro en el 2do año de la carrera.</h3>
 </div>
