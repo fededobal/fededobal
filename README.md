@@ -13,7 +13,7 @@
 ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![C#](https://img.shields.io/badge/C%23-D9D9D9?style=for-the-badge&logo=sharp&logoColor=000000)
 ![Python](https://img.shields.io/badge/python-B3B3B3?style=for-the-badge&logo=python&logoColor=000000)
-![.NET](https://img.shields.io/badge/dotnet-8C8C8C.svg?style=for-the-badge&logo=dotnet&logoColor=000000)
+![.NET](https://img.shields.io/badge/dotnet-8C8C8C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spacy](https://img.shields.io/badge/Spacy-666666?style=for-the-badge&logo=spacy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-404040.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
