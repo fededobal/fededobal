@@ -1,4 +1,4 @@
-<h1 align=center>¡Hola! 👋 Soy Federico Dobal</h1>
+<h1 align=center>Buenas! 👋 Soy Federico Dobal</h1>
 <h3 align=center>🥉 Junior</h3>
 
 <div>
