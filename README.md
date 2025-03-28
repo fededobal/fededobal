@@ -34,19 +34,19 @@
 
 <h2>Primer año</h2>
 
-- [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - [1ER SEMESTRE] Conceptos de Algoritmos, Datos y Programas.
-- [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - [2DO SEMESTRE] Taller de Programación.
-- [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - [2DO SEMESTRE] Arquitectura de Computadoras.
+- [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.
+- [TDP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/TDP) - **[2DO SEMESTRE]** Taller de Programación.
+- [AC](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/AC) - **[2DO SEMESTRE]** Arquitectura de Computadoras.
 
 <h2>Segundo año</h2>
 
-- [AYED](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/AYED) - [3ER SEMESTRE] Algoritmos y Estructuras de Datos.
-- [FOD](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/FOD) - [3ER SEMESTRE] Fundamentos de Organización de Datos.
-- [SEMINARIO .NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - [3ER SEMESTRE] Seminario de Lenguajes opción .NET.
+- [AYED](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/AYED) - **[3ER SEMESTRE]** Algoritmos y Estructuras de Datos.
+- [FOD](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/FOD) - **[3ER SEMESTRE]** Fundamentos de Organización de Datos.
+- [SEMINARIO .NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - **[3ER SEMESTRE]** Seminario de Lenguajes opción .NET.
 
 <h2>Tercer año</h2>
 
-- [MATE3](https://github.com/fdDbl/Facultad/tree/master/3er%20a%C3%B1o/MATE3) - [5TO SEMESTRE] Matemática 3
+- [MATE3](https://github.com/fdDbl/Facultad/tree/master/3er%20a%C3%B1o/MATE3) - **[5TO SEMESTRE]** Matemática 3
 
 ***
 
