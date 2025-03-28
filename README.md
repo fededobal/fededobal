@@ -31,6 +31,7 @@
     <img width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
     <h3>📚 Me encuentro en el 2do año de la carrera.</h3>
 </div>
+
 <h2>Primer año</h2>
 
 - [CADP](https://github.com/fdDbl/Facultad/tree/master/1er%20a%C3%B1o/CADP) - [1ER SEMESTRE] Conceptos de Algoritmos, Datos y Programas.
@@ -42,8 +43,6 @@
 - [AYED](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/AYED) - [3ER SEMESTRE] Algoritmos y Estructuras de Datos.
 - [FOD](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/FOD) - [3ER SEMESTRE] Fundamentos de Organización de Datos.
 - [SEMINARIO .NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - [3ER SEMESTRE] Seminario de Lenguajes opción .NET.
-
-***
 
 <h2>Tercer año</h2>
 
