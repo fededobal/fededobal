@@ -38,7 +38,7 @@
 
 - [AYED](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/AYED) - **[3ER SEMESTRE]** Algoritmos y Estructuras de Datos.
 - [FOD](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/FOD) - **[3ER SEMESTRE]** Fundamentos de Organización de Datos.
-- [Seminario .NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - **[3ER SEMESTRE]** Seminario de Lenguajes opción .NET.
+- [.NET](https://github.com/fdDbl/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - **[3ER SEMESTRE]** Seminario de Lenguajes opción .NET.
 
 <h2>Tercer año</h2>
 
