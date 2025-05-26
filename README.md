@@ -1,4 +1,3 @@
-<h1 align=center>Buenas! 👋</h1>
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdDbl&show_icons=true&theme=dracula">
     <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdDbl&layout=compact&theme=dracula">
@@ -25,9 +24,8 @@
 
 <div align=center>
     <h1 align=center>Licenciatura en Informática</h1>
-    <h3>🏫 Universidad Nacional de La Plata ⬇️</h3>
     <img width=500 src="https://github.com/fdDbl/fdDbl/blob/main/fiearth.gif">
-    <h3>📚 Me encuentro en el 2do año de la carrera.</h3>
+    <h3>🏫 Universidad Nacional de La Plata</h3>
 </div>
 
 <h2>Primer año</h2>
