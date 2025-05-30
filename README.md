@@ -18,7 +18,7 @@
 <h3>🌟 Repositorios</h3>
 <div>
     <a href="https://github.com/fdDbl/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
- <a href="https://github.com/fdDbl/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dracula"></a>
+  <a href="https://github.com/fdDbl/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dracula"></a>
 </div> 
 
 ***
