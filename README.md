@@ -15,9 +15,10 @@
 ![Keras](https://img.shields.io/badge/Keras-404040.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>🌟 Proyectos</h3>
+<h3>🌟 Repositorios</h3>
 <div>
     <a href="https://github.com/fdDbl/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
+ <a href="https://github.com/fdDbl/CentroEventos-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fdDbl&repo=CentroEventos-.NET&cache_seconds=86401&theme=dracula"></a>
 </div> 
 
 ***
