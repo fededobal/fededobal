@@ -33,7 +33,7 @@ _***[ROOT](https://github.com/fededobal/Facultad) - Repositorio raíz "Facultad"
 <h2>Primer año</h2>
 
 **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.<br>
-<a href="https://github.com/fededobal/CADP"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CADP&cache_seconds=86401&theme=dracula&show_owner=true"></a><br>
+<a href="https://github.com/fededobal/CADP"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CADP&cache_seconds=86401&theme=dracula"></a><br>
 **[2DO SEMESTRE]** Taller de Programación.<br>
 <a href="https://github.com/fededobal/TallerDeProgramacion"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=TallerDeProgramacion&cache_seconds=86401&theme=dracula"></a><br>
 **[2DO SEMESTRE]** Arquitectura de Computadoras.<br>
