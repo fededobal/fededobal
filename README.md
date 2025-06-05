@@ -29,7 +29,7 @@
     <h3>🏫 Universidad Nacional de La Plata</h3>
 </div>
 
-[Repositorio raíz "Facultad"](https://github.com/fededobal/Facultad)
+[ROOT](https://github.com/fededobal/Facultad) - <h1>Repositorio raíz "Facultad"</h1>
 
 <h2>Primer año</h2>
 
