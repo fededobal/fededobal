@@ -1,6 +1,6 @@
 <div>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=fededobal&show_icons=true&theme=dracula">
-    <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededobal&layout=compact&theme=dracula">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=fededobal&show_icons=true&theme=dark">
+    <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededobal&layout=compact&theme=dark">
 </div> 
 
 ***
@@ -17,8 +17,8 @@
 
 <h3>🌟 Repositorios</h3>
 <div>
-    <a href="https://github.com/fededobal/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dracula"></a>
-   <a href="https://github.com/fededobal/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dracula"></a>
+    <a href="https://github.com/fededobal/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
+   <a href="https://github.com/fededobal/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dark"></a>
 </div> 
 
 ***
@@ -33,29 +33,29 @@ _***[ROOT](https://github.com/fededobal/Facultad) - Repositorio raíz "Facultad"
 <h2>Primer año</h2>
 
 **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.<br>
-<a href="https://github.com/fededobal/CADP"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CADP&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/CADP"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CADP&cache_seconds=86401&theme=dark"></a><br>
 
 **[2DO SEMESTRE]** Taller de Programación.<br>
-<a href="https://github.com/fededobal/TallerDeProgramacion"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=TallerDeProgramacion&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/TallerDeProgramacion"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=TallerDeProgramacion&cache_seconds=86401&theme=dark"></a><br>
 
 **[2DO SEMESTRE]** Arquitectura de Computadoras.<br>
-<a href="https://github.com/fededobal/ArquitecturaDeComputadoras"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=ArquitecturaDeComputadoras&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/ArquitecturaDeComputadoras"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=ArquitecturaDeComputadoras&cache_seconds=86401&theme=dark"></a><br>
 
 <h2>Segundo año</h2>
 
 **[3ER SEMESTRE]** Algoritmos y Estructuras de Datos.<br>
-<a href="https://github.com/fededobal/AlgoritmosYEstructurasDeDatos"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=AlgoritmosYEstructurasDeDatos&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/AlgoritmosYEstructurasDeDatos"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=AlgoritmosYEstructurasDeDatos&cache_seconds=86401&theme=dark"></a><br>
 
 **[3ER SEMESTRE]** Fundamentos de Organización de Datos.<br>
-<a href="https://github.com/fededobal/FOD"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=FOD&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/FOD"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=FOD&cache_seconds=86401&theme=dark"></a><br>
 **[3ER SEMESTRE]** Seminario de Lenguajes - Opción .NET.<br>
 
-<a href="https://github.com/fededobal/SeminarioDotNet"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=SeminarioDotNet&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/SeminarioDotNet"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=SeminarioDotNet&cache_seconds=86401&theme=dark"></a><br>
 
 <h2>Tercer año</h2>
 
 **[5TO SEMESTRE]** Matemática 3.<br>
-<a href="https://github.com/fededobal/Matematica3"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Matematica3&cache_seconds=86401&theme=dracula"></a><br>
+<a href="https://github.com/fededobal/Matematica3"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Matematica3&cache_seconds=86401&theme=dark"></a><br>
 
 ***
 
