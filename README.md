@@ -48,8 +48,8 @@ _***[ROOT](https://github.com/fededobal/Facultad) - Repositorio raíz "Facultad"
 
 **[3ER SEMESTRE]** Fundamentos de Organización de Datos.<br>
 <a href="https://github.com/fededobal/FOD"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=FOD&cache_seconds=86401&theme=dark"></a><br>
-**[3ER SEMESTRE]** Seminario de Lenguajes - Opción .NET.<br>
 
+**[3ER SEMESTRE]** Seminario de Lenguajes - Opción .NET.<br>
 <a href="https://github.com/fededobal/SeminarioDotNet"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=SeminarioDotNet&cache_seconds=86401&theme=dark"></a><br>
 
 <h2>Tercer año</h2>
