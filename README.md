@@ -29,21 +29,23 @@
     <h3>🏫 Universidad Nacional de La Plata</h3>
 </div>
 
+[Repositorio raíz "Facultad"](https://github.com/fededobal/Facultad)
+
 <h2>Primer año</h2>
 
-- [CADP](https://github.com/fededobal/Facultad/tree/master/1er%20a%C3%B1o/CADP) - **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.
-- [TDP](https://github.com/fededobal/Facultad/tree/master/1er%20a%C3%B1o/TDP) - **[2DO SEMESTRE]** Taller de Programación.
-- [AC](https://github.com/fededobal/Facultad/tree/master/1er%20a%C3%B1o/AC) - **[2DO SEMESTRE]** Arquitectura de Computadoras.
+- [CADP](https://github.com/fededobal/CADP) - **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.
+- [TDP](https://github.com/fededobal/TallerDeProgramacion) - **[2DO SEMESTRE]** Taller de Programación.
+- [AC](https://github.com/fededobal/ArquitecturaDeComputadoras) - **[2DO SEMESTRE]** Arquitectura de Computadoras.
 
 <h2>Segundo año</h2>
 
-- [AYED](https://github.com/fededobal/Facultad/tree/master/2do%20a%C3%B1o/AYED) - **[3ER SEMESTRE]** Algoritmos y Estructuras de Datos.
-- [FOD](https://github.com/fededobal/Facultad/tree/master/2do%20a%C3%B1o/FOD) - **[3ER SEMESTRE]** Fundamentos de Organización de Datos.
-- [.NET](https://github.com/fededobal/Facultad/tree/master/2do%20a%C3%B1o/Seminario%20.NET) - **[3ER SEMESTRE]** Seminario de Lenguajes opción .NET.
+- [AYED](https://github.com/fededobal/AlgoritmosYEstructurasDeDatos) - **[3ER SEMESTRE]** Algoritmos y Estructuras de Datos.
+- [FOD](https://github.com/fededobal/FOD) - **[3ER SEMESTRE]** Fundamentos de Organización de Datos.
+- [.NET](https://github.com/fededobal/SeminarioDotNet) - **[3ER SEMESTRE]** Seminario de Lenguajes opción .NET.
 
 <h2>Tercer año</h2>
 
-- [MATE3](https://github.com/fededobal/Facultad/tree/master/3er%20a%C3%B1o/MATE3) - **[5TO SEMESTRE]** Matemática 3
+- [MATE3](https://github.com/fededobal/Matematica3) - **[5TO SEMESTRE]** Matemática 3
 
 ***
 
