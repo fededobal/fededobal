@@ -28,7 +28,6 @@
     <img width=500 src="https://github.com/fededobal/fededobal/blob/main/fiearth.gif">
     <h3>🏫 Universidad Nacional de La Plata</h3>
 </div>
-
 <h2>Primer año</h2>
 
 **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.<br>
