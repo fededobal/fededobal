@@ -1,4 +1,4 @@
-<h3>📚 Aprendiendo...</h3>
+### 📚 Aprendiendo...
 
 ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
 ![C#](https://img.shields.io/badge/C%23-D9D9D9?style=for-the-badge&logo=sharp&logoColor=000000)
@@ -10,7 +10,7 @@
 
 ***
 
-# 📫 Contacto
+### 📫 Contacto
 
 <a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
 <br>
@@ -20,7 +20,7 @@
 
 ***
 
-<h3>🌟 Repositorios</h3>
+### 🌟 Repositorios
 <div>
     <a href="https://github.com/fededobal/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
    <a href="https://github.com/fededobal/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dark"></a>
