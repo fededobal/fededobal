@@ -22,7 +22,7 @@
 
 ### 🌟 Repositorios
 <div>
-    <a href="https://github.com/fededobal/Facultad"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
+    <a href="https://github.com/fededobal/Facultad"><img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
    <a href="https://github.com/fededobal/CentroEventos-TP1-.NET"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CentroEventos-TP1-.NET&cache_seconds=86401&theme=dark"></a>
 </div> 
 
