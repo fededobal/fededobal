@@ -29,7 +29,6 @@
     <h3>🏫 Universidad Nacional de La Plata</h3>
 </div>
 
-_***[ROOT](https://github.com/fededobal/Facultad) - Repositorio raíz "Facultad"***_
 <h2>Primer año</h2>
 
 **[1ER SEMESTRE]** Conceptos de Algoritmos, Datos y Programas.<br>
