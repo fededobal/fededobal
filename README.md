@@ -15,6 +15,16 @@
 ![Keras](https://img.shields.io/badge/Keras-404040.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
+***
+
+# 📫 Contacto
+
+<a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
+<br>
+<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail_institucional-federico.dobal259836%40alumnos.info.unlp.edu.ar-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail institucional - federico.dobal259836@alumnos.info.unlp.edu.ar"></a>
+<br>
+<a href="https://discord.com/users/534757212149776395"><img src="https://img.shields.io/badge/Discord-fede%230914-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord - fede#0914"></a>
+
 <h3>🌟 Repositorios</h3>
 <div>
     <a href="https://github.com/fededobal/Facultad"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
@@ -54,13 +64,3 @@
 
 **[5TO SEMESTRE]** Matemática 3.<br>
 <a href="https://github.com/fededobal/Matematica3"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Matematica3&cache_seconds=86401&theme=dark"></a><br>
-
-***
-
-# 📫 Contacto
-
-<a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
-<br>
-<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail_institucional-federico.dobal259836%40alumnos.info.unlp.edu.ar-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail institucional - federico.dobal259836@alumnos.info.unlp.edu.ar"></a>
-<br>
-<a href="https://discord.com/users/534757212149776395"><img src="https://img.shields.io/badge/Discord-fede%230914-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord - fede#0914"></a>
