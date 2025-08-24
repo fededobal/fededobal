@@ -55,6 +55,18 @@
 **[3ER SEMESTRE]** Seminario de Lenguajes - Opción .NET.<br>
 <a href="https://github.com/fededobal/SeminarioDotNet"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=SeminarioDotNet&cache_seconds=86401&theme=dark"></a><br>
 
+**[4TO SEMESTRE]** Ingeniería de Software 1<br>
+<a href="https://github.com/fededobal/IngenieriaDeSoftware"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=IngenieriaDeSoftware&cache_seconds=86401&theme=dark"></a><br>
+
+**[4TO SEMESTRE]** Introducción a los Sistemas Operativos<br>
+<a href="https://github.com/fededobal/IntroALosSistemasOperativos"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=IntroALosSistemasOperativos&cache_seconds=86401&theme=dark"></a><br>
+
+**[4TO SEMESTRE]** Diseño de Bases de Datos<br>
+<a href="https://github.com/fededobal/DBasesDeDatos"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=DBasesDeDatos&cache_seconds=86401&theme=dark"></a><br>
+
+**[4TO SEMESTRE]** Orientación a Objetos 1<br>
+<a href="https://github.com/fededobal/OrientacionAObjetos1"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=OrientacionAObjetos1&cache_seconds=86401&theme=dark"></a><br>
+
 <h2>Tercer año</h2>
 
 **[5TO SEMESTRE]** Matemática 3.<br>
