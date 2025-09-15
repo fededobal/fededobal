@@ -1,3 +1,5 @@
+<!-- 
+
 ### 📚 Aprendiendo... 
 
 ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
@@ -9,6 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 ***
+-->
 
 ### 📫 Contacto
 
