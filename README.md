@@ -77,5 +77,6 @@
 
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fededobal&show_icons=true&theme=dark">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fededobal&theme=default&show_icons=true&hide_border=true&count_private=true)
     <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededobal&layout=compact&theme=dark">
 </div> 
