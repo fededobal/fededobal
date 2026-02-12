@@ -16,7 +16,7 @@
 
 <a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
 <br>
-<a href="mailto:federico.dobal259836@alumnos.info.unlp.edu.ar"><img src="https://img.shields.io/badge/Mail-federico.dobal259836%40alumnos.info.unlp.edu.ar-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail - federico.dobal259836@alumnos.info.unlp.edu.ar"></a>
+<a href="mailto:dobalfede.unlp@gmail.com"><img src="https://img.shields.io/badge/Mail-dobalfede.unlp@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Mail - dobalfede.unlp@gmail.com"></a>
 <br>
 <a href="https://discord.com/users/534757212149776395"><img src="https://img.shields.io/badge/Discord-fede%230914-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord - fede#0914"></a>
 
