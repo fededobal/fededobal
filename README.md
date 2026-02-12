@@ -21,7 +21,7 @@
 <a href="https://discord.com/users/534757212149776395"><img src="https://img.shields.io/badge/Discord-fede%230914-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord - fede#0914"></a>
 
 ***
-
+<!--
 ### 🌟 Repositorios
 <div>
     <a href="https://github.com/fededobal/Facultad"><img width="345" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Facultad&cache_seconds=86401&theme=dark"></a>
@@ -29,7 +29,7 @@
 </div> 
 
 ***
-<!--
+
 <div align=center>
     <h1 align=center>Licenciatura en Informática</h1>
     <img width=500 src="https://github.com/fededobal/fededobal/blob/main/fiearth.gif">
@@ -73,10 +73,10 @@
 
 **[5TO SEMESTRE]** Matemática 3.<br>
 <a href="https://github.com/fededobal/Matematica3"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=Matematica3&cache_seconds=86401&theme=dark"></a><br>
--->
 
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fededobal&show_icons=true&theme=dark">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=fededobal&theme=default&show_icons=true&hide_border=true&count_private=true">
     <img width="305" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededobal&layout=compact&theme=dark">
 </div> 
+-->
