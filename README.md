@@ -13,6 +13,7 @@
 ***
 -->
 ### 📫 Contacto
+<a href="https://github.com/alvaroauth/AyED"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=AyED&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
 
 <a href="https://www.linkedin.com/in/federicodobal/"><img src="https://img.shields.io/badge/LinkedIn-linkedin.com%2Fin%2Ffedericodobal%2F-0e76a8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn - linkedin.com/in/federicodobal/"></a>
 <br>
