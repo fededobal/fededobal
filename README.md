@@ -19,8 +19,6 @@
 <a href="https://github.com/fededobal/CADP"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=CADP&theme=midnight-purple&bg_color=1F222E&border_color=ff0000&title_color=ff0000&icon_color=660000&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
 <a href="https://github.com/fededobal/TallerDeProgramacion"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=TallerDeProgramacion&theme=midnight-purple&bg_color=1F222E&border_color=ff0000&title_color=ff0000&icon_color=660000&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
 
----
-
 ## 2do Año
 
 ### Primer Semestre
@@ -33,8 +31,6 @@
 <a href="https://github.com/fededobal/OrientacionAObjetos1"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=OrientacionAObjetos1&theme=midnight-purple&bg_color=1F222E&border_color=ff0000&title_color=ff0000&icon_color=660000&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
 <a href="https://github.com/fededobal/DBasesDeDatos"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=DBasesDeDatos&theme=midnight-purple&bg_color=1F222E&border_color=ff0000&title_color=ff0000&icon_color=660000&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
 <a href="https://github.com/fededobal/IntroALosSistemasOperativos"><img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fededobal&repo=IntroALosSistemasOperativos&theme=midnight-purple&bg_color=1F222E&border_color=ff0000&title_color=ff0000&icon_color=660000&text_color=ffffff&show_icons=false&show_owner=false&hide=stars,forks,language&border_radius=15" style="margin: 10px;"></a>
-
----
 
 ## 3er Año
 
